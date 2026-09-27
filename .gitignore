@@ -8,3 +8,7 @@ server-log.txt
 .env*
 !.env.example
 ObsidianVault/
+
+# Directivas agenticas y tooling local privado
+AGENTS.md
+.agents/
