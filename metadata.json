@@ -1,0 +1,6 @@
+{
+  "name": "Unicolombo - Sanitas Escolar Enfermería",
+  "description": "Sistema clínico de enfermería universitaria con transcripción multimodal mediante IA (Gemma / Gemini), exportación a Obsidian Vault y generación de reportes médicos PDF.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
